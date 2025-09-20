@@ -1,7 +1,7 @@
 # Excel Sales Dashboard  
 
 ## Dashboard Preview  
-![Dashboard Preview]([dashboard-preview.png](https://github.com/ibrahimaymn/Sales-Dashboard-Excel/blob/main/Sales%20Dashboard%20Excel%20Screenshot.png?raw=True))  
+![Dashboard Preview](https://github.com/ibrahimaymn/Sales-Dashboard-Excel/blob/main/Sales%20Dashboard%20Excel%20Screenshot.png?raw=True)
 ## Overview  
 This project analyzes sales data using **Microsoft Excel**.  
 I performed basic data cleaning, created Pivot Tables to extract insights, and built an interactive dashboard to visualize the results clearly.  
